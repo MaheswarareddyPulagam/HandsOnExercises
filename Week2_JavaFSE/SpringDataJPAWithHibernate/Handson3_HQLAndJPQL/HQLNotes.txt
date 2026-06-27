@@ -1,0 +1,16 @@
+Difference Between HQL and SQL
+
+HQL:
+- Uses Java class names
+- Uses object fields
+- Object oriented
+
+SQL:
+- Uses table names
+- Uses database columns
+- Database oriented
+
+Fetch Join:
+- fetch loads related objects
+- avoids multiple queries
+- improves performance
