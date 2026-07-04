@@ -1,0 +1,13 @@
+JWT THEORY
+
+JWT = JSON Web Token
+
+Structure:
+- Header
+- Payload
+- Signature
+
+Advantages:
+- Stateless
+- Secure
+- Fast Authentication
