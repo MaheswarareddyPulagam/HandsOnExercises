@@ -1,0 +1,22 @@
+SPRING CORE THEORY
+
+1. Advantages of Spring Boot
+- Embedded Tomcat
+- Auto Configuration
+- Faster Development
+- Less Boilerplate Code
+
+2. Bean Scopes
+- Singleton
+- Prototype
+
+3. Dependency Injection
+- Constructor Injection
+- Setter Injection
+
+4. Logging Levels
+TRACE
+DEBUG
+INFO
+WARN
+ERROR

@@ -1,0 +1,8 @@
+EMPLOYEE REST THEORY
+
+Architecture:
+Controller -> Service -> DAO
+
+Controller handles requests.
+Service contains business logic.
+DAO accesses data.
