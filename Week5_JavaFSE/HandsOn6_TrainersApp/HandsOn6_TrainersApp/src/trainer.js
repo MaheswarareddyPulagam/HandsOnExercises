@@ -1,0 +1,1 @@
+export default class Trainer{constructor(id,name,email,phone,technology,skills){Object.assign(this,{id,name,email,phone,technology,skills});}}

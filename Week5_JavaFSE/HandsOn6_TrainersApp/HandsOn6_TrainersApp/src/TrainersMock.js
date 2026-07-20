@@ -1,0 +1,1 @@
+export default [{id:1,name:'John',email:'john@test.com',phone:'1111111111',technology:'React',skills:'JS,React'},{id:2,name:'Mary',email:'mary@test.com',phone:'2222222222',technology:'Java',skills:'Spring'}];
